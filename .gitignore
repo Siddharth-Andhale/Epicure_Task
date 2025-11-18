@@ -1,0 +1,210 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.log
+logs/
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.atom/
+.project
+.pydevproject
+.settings/
+*.iml
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+.pio
+platformio.ini.bak
+
+# STM32CubeIDE / STM32 Development
+.settings/
+Debug/
+Release/
+.cproject
+.project
+*.o
+*.a
+*.d
+.metadata/
+RemoteSystemsTempFiles/
+Makefile.local
+.mxproject
+*.eide
+*.ioc.bak
+
+# Embedded Development
+*.elf
+*.hex
+*.bin
+*.axf
+*.map
+*.lst
+*.asm
+*.out
+
+# Build artifacts
+*.obj
+*.lib
+*.exp
+*.ilk
+*.pdb
+
+# VS Code workspace settings
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/*.json
+
+# OS specific
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.swp
+*~
+.~*
+
+# Hardware related
+*.gcode
+*.nc
+calibration/
+
+# Configuration files (if sensitive)
+# Uncomment if needed:
+# config.local.py
+# secrets.py
+
+# Test coverage
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.pytest_cache/
+.hypothesis/
+
+# Virtual environments
+env/
+venv/
+ENV/
+
+# Package manager
+.npmrc
+package-lock.json
+
+# Compiled Python
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Project specific
+.env.local
+.env.*.local
+*.cred
+credentials.json
+secrets/
+private/
+src/Python Publisher/
+
+# Output files
+*.out
+output/
+results/
+temp/
+
+# Documentation build
+docs/_build/
+site/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Certificates (keep sensitive)
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# Node modules (if any)
+node_modules/
+npm-debug.log
+
+# Lock files (optional - uncomment if you want to commit them)
+# poetry.lock
+# Pipfile.lock
+
+# PyCharm
+.idea/
+*.iml
+out/
+
+# Runtime files
+*.pid
+*.seed
+*.pid.lock
+
+# Misc
+.AppleDouble
+.LSOverride
+._*
+.apdisk
+.cache
+.parcel-cache
+dist
